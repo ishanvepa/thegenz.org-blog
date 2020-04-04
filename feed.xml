@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>The Gen Z Blog</title>
-    <link href="https://www.blog.thegenz.org/feed.xml" rel="self" />
-    <link href="https://www.blog.thegenz.org" />
-    <updated>2020-04-04T12:36:36-04:00</updated>
+    <link href="https://blog.thegenz.org/feed.xml" rel="self" />
+    <link href="https://blog.thegenz.org" />
+    <updated>2020-04-04T12:41:30-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
-    <id>https://www.blog.thegenz.org</id>
+    <id>https://blog.thegenz.org</id>
 
     <entry>
         <title>2.8 ddr</title>
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/28-ddr.html"/>
-        <id>https://www.blog.thegenz.org/28-ddr.html</id>
+        <link href="https://blog.thegenz.org/28-ddr.html"/>
+        <id>https://blog.thegenz.org/28-ddr.html</id>
 
         <updated>2020-02-03T21:39:13-05:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/i-am-making-a-post.html"/>
-        <id>https://www.blog.thegenz.org/i-am-making-a-post.html</id>
+        <link href="https://blog.thegenz.org/i-am-making-a-post.html"/>
+        <id>https://blog.thegenz.org/i-am-making-a-post.html</id>
 
         <updated>2020-02-01T17:49:54-05:00</updated>
             <summary>
@@ -54,19 +54,19 @@
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/test-article-2.html"/>
-        <id>https://www.blog.thegenz.org/test-article-2.html</id>
+        <link href="https://blog.thegenz.org/test-article-2.html"/>
+        <id>https://blog.thegenz.org/test-article-2.html</id>
 
         <updated>2020-01-31T22:10:06-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.blog.thegenz.org/media/posts/4/Ananda-smiling-pic.jpg" alt="" />
+                        <img src="https://blog.thegenz.org/media/posts/4/Ananda-smiling-pic.jpg" alt="" />
                     This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.blog.thegenz.org/media/posts/4/Ananda-smiling-pic.jpg" alt="" />
+                    <img src="https://blog.thegenz.org/media/posts/4/Ananda-smiling-pic.jpg" alt="" />
                 This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.
             ]]>
         </content>
@@ -76,19 +76,19 @@
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/another-test-article-2.html"/>
-        <id>https://www.blog.thegenz.org/another-test-article-2.html</id>
+        <link href="https://blog.thegenz.org/another-test-article-2.html"/>
+        <id>https://blog.thegenz.org/another-test-article-2.html</id>
 
         <updated>2020-01-31T22:10:06-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.blog.thegenz.org/media/posts/3/IMG_3850.JPG" alt="" />
+                        <img src="https://blog.thegenz.org/media/posts/3/IMG_3850.JPG" alt="" />
                     This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.blog.thegenz.org/media/posts/3/IMG_3850.JPG" alt="" />
+                    <img src="https://blog.thegenz.org/media/posts/3/IMG_3850.JPG" alt="" />
                 This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.
             ]]>
         </content>
@@ -98,19 +98,19 @@
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/another-test-article.html"/>
-        <id>https://www.blog.thegenz.org/another-test-article.html</id>
+        <link href="https://blog.thegenz.org/another-test-article.html"/>
+        <id>https://blog.thegenz.org/another-test-article.html</id>
 
         <updated>2020-01-31T22:10:02-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.blog.thegenz.org/media/posts/2/IMG_3850.JPG" alt="" />
+                        <img src="https://blog.thegenz.org/media/posts/2/IMG_3850.JPG" alt="" />
                     This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.blog.thegenz.org/media/posts/2/IMG_3850.JPG" alt="" />
+                    <img src="https://blog.thegenz.org/media/posts/2/IMG_3850.JPG" alt="" />
                 This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.
             ]]>
         </content>
@@ -120,19 +120,19 @@
         <author>
             <name>Ishan Vepa</name>
         </author>
-        <link href="https://www.blog.thegenz.org/test-article.html"/>
-        <id>https://www.blog.thegenz.org/test-article.html</id>
+        <link href="https://blog.thegenz.org/test-article.html"/>
+        <id>https://blog.thegenz.org/test-article.html</id>
 
         <updated>2020-01-31T21:38:07-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.blog.thegenz.org/media/posts/1/Ananda-smiling-pic.jpg" alt="" />
+                        <img src="https://blog.thegenz.org/media/posts/1/Ananda-smiling-pic.jpg" alt="" />
                     This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.blog.thegenz.org/media/posts/1/Ananda-smiling-pic.jpg" alt="" />
+                    <img src="https://blog.thegenz.org/media/posts/1/Ananda-smiling-pic.jpg" alt="" />
                 This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.
             ]]>
         </content>
