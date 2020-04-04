@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>The Gen Z Blog</title>
+    <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2020-04-04T12:41:30-04:00</updated>
+    <updated>2020-04-04T16:03:21-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
