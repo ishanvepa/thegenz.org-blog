@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Gen Z Blog",
     "description": "",
-    "home_page_url": "https://blog.thegenz.org",
-    "feed_url": "https://blog.thegenz.org/feed.json",
+    "home_page_url": "https://pepperysauce.github.io/thegenz.org-blog",
+    "feed_url": "https://pepperysauce.github.io/thegenz.org-blog/feed.json",
     "user_comment": "",
-    "icon": "https://blog.thegenz.org/media/website/GenZLogoTransparent.png",
+    "icon": "https://pepperysauce.github.io/thegenz.org-blog/media/website/GenZLogoTransparent.png",
     "author": {
         "name": "Ishan Vepa"
     },
     "items": [
         {
-            "id": "https://blog.thegenz.org/28-ddr.html",
-            "url": "https://blog.thegenz.org/28-ddr.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/28-ddr.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/28-ddr.html",
             "title": "2.8 ddr",
             "summary": "2.8 ddr 2.8 ddr 2.8 ddr 2.8 ddr2.8 ddr 2.8 ddr 2.8 ddrHlleo Lorem Ipsm ",
             "content_html": "2.8 ddr 2.8 ddr 2.8 ddr 2.8 ddr2.8 ddr 2.8 ddr 2.8 ddrHlleo Lorem Ipsm <iframe width=\"500\" height=\"100\" frameborder=\"0\" src=\"https://drive.google.com/file/d/1PFylgO9CY9pTTv_cg7w1dpF0yHWBvYf2/preview\"></iframe>",
@@ -25,8 +25,8 @@
             "date_modified": "2020-02-03T21:39:13-05:00"
         },
         {
-            "id": "https://blog.thegenz.org/i-am-making-a-post.html",
-            "url": "https://blog.thegenz.org/i-am-making-a-post.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/i-am-making-a-post.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/i-am-making-a-post.html",
             "title": "I am making a Post",
             "summary": "Splendid, Splendid, Splendid, Splendid, Splendid, SplendidSplendid SplendidSplendid,SplendidSplendidSplendidSplendidSplendidSplendidSplendidSplendidSplendidlkjewolkj;adf",
             "content_html": "Splendid, Splendid, Splendid, Splendid, Splendid, SplendidSplendid SplendidSplendid,SplendidSplendidSplendidSplendidSplendidSplendidSplendidSplendidSplendidlkjewolkj;adf",
@@ -39,12 +39,12 @@
             "date_modified": "2020-02-01T17:49:54-05:00"
         },
         {
-            "id": "https://blog.thegenz.org/test-article-2.html",
-            "url": "https://blog.thegenz.org/test-article-2.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/test-article-2.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/test-article-2.html",
             "title": "Test Article  (copy)",
             "summary": "This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.",
             "content_html": "This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.",
-            "image": "https://blog.thegenz.org/media/posts/4/Ananda-smiling-pic.jpg",
+            "image": "https://pepperysauce.github.io/thegenz.org-blog/media/posts/4/Ananda-smiling-pic.jpg",
             "author": {
                 "name": "Ishan Vepa"
             },
@@ -54,12 +54,12 @@
             "date_modified": "2020-01-31T22:10:06-05:00"
         },
         {
-            "id": "https://blog.thegenz.org/another-test-article-2.html",
-            "url": "https://blog.thegenz.org/another-test-article-2.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/another-test-article-2.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/another-test-article-2.html",
             "title": "Another Test Article (copy)",
             "summary": "This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.",
             "content_html": "This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.",
-            "image": "https://blog.thegenz.org/media/posts/3/IMG_3850.JPG",
+            "image": "https://pepperysauce.github.io/thegenz.org-blog/media/posts/3/IMG_3850.JPG",
             "author": {
                 "name": "Ishan Vepa"
             },
@@ -69,12 +69,12 @@
             "date_modified": "2020-01-31T22:10:06-05:00"
         },
         {
-            "id": "https://blog.thegenz.org/another-test-article.html",
-            "url": "https://blog.thegenz.org/another-test-article.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/another-test-article.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/another-test-article.html",
             "title": "Another Test Article",
             "summary": "This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.",
             "content_html": "This picture is Science Olympiad UF Northside Regional Competition for the year 2020. I had got 3 medals in this competition, being the best I have ever done in an SO contest.",
-            "image": "https://blog.thegenz.org/media/posts/2/IMG_3850.JPG",
+            "image": "https://pepperysauce.github.io/thegenz.org-blog/media/posts/2/IMG_3850.JPG",
             "author": {
                 "name": "Ishan Vepa"
             },
@@ -84,12 +84,12 @@
             "date_modified": "2020-01-31T22:10:02-05:00"
         },
         {
-            "id": "https://blog.thegenz.org/test-article.html",
-            "url": "https://blog.thegenz.org/test-article.html",
+            "id": "https://pepperysauce.github.io/thegenz.org-blog/test-article.html",
+            "url": "https://pepperysauce.github.io/thegenz.org-blog/test-article.html",
             "title": "Test Article ",
             "summary": "This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.",
             "content_html": "This is a test article to see how this looks and appears on the CMS-based site that I am currently trying to create for our Organization, The Generation Z Organization.",
-            "image": "https://blog.thegenz.org/media/posts/1/Ananda-smiling-pic.jpg",
+            "image": "https://pepperysauce.github.io/thegenz.org-blog/media/posts/1/Ananda-smiling-pic.jpg",
             "author": {
                 "name": "Ishan Vepa"
             },
