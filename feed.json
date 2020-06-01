@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://blog.thegenz.org/lets-go-nuclear.html",
+            "url": "https://blog.thegenz.org/lets-go-nuclear.html",
+            "title": "Let&#x27;s Go Nuclear!",
+            "summary": "On March 28, 2019, the President of the United Nations General Assembly, Maria Fernanda Espinosa stated that the international community had about 11 years until the effects of climate change were completely irreversible. Since then the emphasis on creating a more sustainable society has been&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">On March 28, 2019, the President of the United Nations General Assembly, Maria Fernanda Espinosa stated that the international community had about 11 years until the effects of climate change were completely irreversible. Since then the emphasis on creating a more sustainable society has been even greater than it has ever been before. In places like Florida, climate strikes occurred and had large followings. In this time of environmental consciousness, many look towards energy production and ponder as to how we can reform it to have less of an environmental strain. While options like wind energy, hydroelectric energy, and solar energy are commonly mentioned in discussions regarding alternative energy sources, however, one form that is usually ignored is nuclear energy. </span></p>\n<p><span style=\"font-weight: 400;\">Nuclear power as a concept originated in the 1930s with Enrico Fermi’s research on neutrons and their ability to split atoms. Since then, nuclear power has been improved upon and implemented in many nations as a form of creating energy. Nuclear energy is a clean, zero-emission source of energy (U.S Department of Energy), and it has avoided the emission of about 476.2 metric tons of carbon dioxide in the United States in the year 2019 alone (Nuclear Energy Institute). It is also a powerful source of energy. The Ginna nuclear power plant in New York produces about 4,689,440 MWh (U.S Energy Information Administration) In comparison, most wind turbines in the U.S produce a max of 10,000 MW (U.S Energy Information Administration). Not only is it powerful, but it is also highly used in several foreign nations. In Hungary, nuclear energy accounts for about 50.6% of all electricity produced, in Ukraine it is about 53.0%, in France it is as high as 71.7% (International Atomic Energy Agency). Nuclear energy is a highly clean and efficient form of energy production, however it does come with certain flaws. </span></p>\n<p><span style=\"font-weight: 400;\">Despite nuclear energy being a clean source of energy, it is not a renewable source of energy. According to phys.org, at the current rate at which we use uranium, it will be used up in about 80 years. However, uranium is not the only viable option for nuclear fuel. Other nuclear fuels like plutonium can be used in lieu of uranium and still result in large sums of energy. Another flaw that comes with nuclear energy is the fear of nuclear accidents. Many people envision Chernobyl-Esque disasters when they discuss nuclear energy, however, disasters like these are fairly rare. The most recent nuclear disaster was the Fukushima Daiichi nuclear disaster in 2011, which was most likely caused by the tsunami which occurred in days before the disaster. Most nuclear accidents occurred because of human error or poor machinery, which we have evolved past. </span></p>\n<p><span style=\"font-weight: 400;\">The switch to nuclear energy may not be the be-all-end-all solution to clean energy production, however, it certainly has potential. From its reliability to its lack of major environmental strain, it seems to have a lot going for it and should be discussed more in conversations regarding alternative energy sources. </span></p>",
+            "image": "https://blog.thegenz.org/media/posts/12/nuclear-power-plant-4535760_1920.jpg",
+            "author": {
+                "name": "Ishan Vepa"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-01T09:45:36-04:00",
+            "date_modified": "2020-06-01T09:47:33-04:00"
+        },
+        {
             "id": "https://blog.thegenz.org/climate-change-and-what-our-community-can-do-to-prevent-it.html",
             "url": "https://blog.thegenz.org/climate-change-and-what-our-community-can-do-to-prevent-it.html",
             "title": "Climate change and what our community can do to prevent it.",
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2020-06-01T09:42:47-04:00",
-            "date_modified": "2020-06-01T09:42:47-04:00"
+            "date_modified": "2020-06-01T09:48:50-04:00"
         },
         {
             "id": "https://blog.thegenz.org/honest-opinion-on-black-lives-matter-and-america-non-gapps.html",
