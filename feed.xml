@@ -3,7 +3,7 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2020-06-01T09:04:42-04:00</updated>
+    <updated>2020-06-01T09:13:18-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
@@ -141,7 +141,7 @@
         <link href="https://blog.thegenz.org/remembering-the-selma-voting-rights-movement.html"/>
         <id>https://blog.thegenz.org/remembering-the-selma-voting-rights-movement.html</id>
 
-        <updated>2020-05-30T17:00:40-04:00</updated>
+        <updated>2020-06-01T09:12:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/8/SelmaMonteMarch1.jpg" alt="Photo depicting a Selma-to-Montgomery March memorial." />
@@ -151,7 +151,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://blog.thegenz.org/media/posts/8/SelmaMonteMarch1.jpg" alt="Photo depicting a Selma-to-Montgomery March memorial." />
-                <p>Fifty-five years ago, the raging fire of the African American Civil Rights movement found itself among the black residents of  Selma, Alabama.</p>
+                <p class="msg msg--highlight "><em><strong>Fifty-five years ago, the raging fire of the African American Civil Rights movement found itself among the black residents of  Selma, Alabama.</strong></em></p>
 <hr>
 <p style="font-weight: 400;">Six hundred people attempted to march from Selma to Montgomery to demand equal voting rights and protest the murder of Jimmie Lee Jackson, a peaceful black demonstrator shot  by an Alabama State trooper. The marchers led by U.S. Representative John Lewis and Hosea Williams attempted to get past the Edmund Pettus Bridge, where they were met by a wall of Alabama State troopers. The peaceful protestors were brutally tear gassed and charged with Billie Clubs and Nightsticks. 67 people were injured critically, and the eyes of the world were on Selma, Alabama. The event that is today remembered as Bloody Sunday was one of the most disgraceful moments in our history, a day in which American values were questioned by the forces of hate, and ignorance.  This historic event occurred only 235 miles from Tallahassee, Florida.</p>
 <p style="font-weight: 400;">I had the privilege of interviewing several participants in the Selma Voting Rights movement, in a recent trip to Selma.  Ms. Jo Ann Bland, a participant in several of the Selma-Montgomery marches, speaking about Bloody Sunday, stated, “I hope no one ever has to relive that moment.”  Ms. Diane Harris, another demonstrator during the event,  added how state troopers arrested people regardless of their age, and noted children as young as nine also found themselves being taken to prison.</p>
@@ -167,12 +167,11 @@
         <link href="https://blog.thegenz.org/a-high-school-students-take-on-appreciating-teachers-during-covid-19.html"/>
         <id>https://blog.thegenz.org/a-high-school-students-take-on-appreciating-teachers-during-covid-19.html</id>
 
-        <updated>2020-05-30T17:24:49-04:00</updated>
+        <updated>2020-06-01T09:12:57-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/7/classroom.jpg" alt="Photo depicting teaching in a classroom." />
-                    <p> </p>
-<p>The purpose of this article is to serve as a reminder to my fellow students to appreciate our teachers during Teacher Appreciation Week, and for all the weeks after.</p>
+                    <p class="msg msg--info"><em><strong>The purpose of this article is to serve as a reminder to my fellow students to appreciate our teachers during Teacher Appreciation Week, and for all the weeks after.</strong></em></p>
 <hr>
 <p>I am not the quintessential “ideal student.” I procrastinate a lot. My handwriting is not the greatest. Just recently, one of my teachers jokingly (I hope) told me that it was easier to decipher handwriting from the 19th century than mine. And much to the chagrin of my teachers, I often forget including the date, and class period, at the top right corner of my sheet of lined paper. But as I sit and reflect on these gaffes, I also realize that our teachers are some of the most pivotal people in our lives. They do not just teach us. They mentor us, they guide us, and most importantly they look out for us. This week is teacher appreciation week, and we need to remember the hard work teachers do, and the sacrifices they make for us students.<br>Despite everything teachers do for us, we occasionally forget that our teachers are “normal human beings.” Often, we evade out teachers at a neighborhood grocery or look in awe if we see them at a movie theater. However, we need to remember that our teachers too, have children, family, loved ones, and pets, like the rest of us. They are doing their jobs, while going through the same hardships that we all are facing currently. Just a few days back my math teacher’s dog passed away, yet the next day, she was on Microsoft Teams, checking in with us, and making sure that we were understanding lesson content. My aunt, a high school teacher, is taking care of her husband-- a cancer patient, while teaching programming languages to her students through Zoom. Our teachers, like front line workers across the nation, are selflessly doing their job, so that we, as students, can be better prepared for challenges that are yet to come.</p>
 
@@ -181,8 +180,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://blog.thegenz.org/media/posts/7/classroom.jpg" alt="Photo depicting teaching in a classroom." />
-                <p> </p>
-<p>The purpose of this article is to serve as a reminder to my fellow students to appreciate our teachers during Teacher Appreciation Week, and for all the weeks after.</p>
+                <p class="msg msg--info"><em><strong>The purpose of this article is to serve as a reminder to my fellow students to appreciate our teachers during Teacher Appreciation Week, and for all the weeks after.</strong></em></p>
 <hr>
 <p>I am not the quintessential “ideal student.” I procrastinate a lot. My handwriting is not the greatest. Just recently, one of my teachers jokingly (I hope) told me that it was easier to decipher handwriting from the 19th century than mine. And much to the chagrin of my teachers, I often forget including the date, and class period, at the top right corner of my sheet of lined paper. But as I sit and reflect on these gaffes, I also realize that our teachers are some of the most pivotal people in our lives. They do not just teach us. They mentor us, they guide us, and most importantly they look out for us. This week is teacher appreciation week, and we need to remember the hard work teachers do, and the sacrifices they make for us students.<br>Despite everything teachers do for us, we occasionally forget that our teachers are “normal human beings.” Often, we evade out teachers at a neighborhood grocery or look in awe if we see them at a movie theater. However, we need to remember that our teachers too, have children, family, loved ones, and pets, like the rest of us. They are doing their jobs, while going through the same hardships that we all are facing currently. Just a few days back my math teacher’s dog passed away, yet the next day, she was on Microsoft Teams, checking in with us, and making sure that we were understanding lesson content. My aunt, a high school teacher, is taking care of her husband-- a cancer patient, while teaching programming languages to her students through Zoom. Our teachers, like front line workers across the nation, are selflessly doing their job, so that we, as students, can be better prepared for challenges that are yet to come.</p>
 
