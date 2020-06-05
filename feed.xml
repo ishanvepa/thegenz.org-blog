@@ -3,7 +3,7 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2020-06-05T12:39:33-04:00</updated>
+    <updated>2020-06-05T13:02:22-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://blog.thegenz.org/educational-inequality.html"/>
         <id>https://blog.thegenz.org/educational-inequality.html</id>
+            <category term="#wealthgap"/>
             <category term="#inequality"/>
+            <category term="#gap"/>
             <category term="#education"/>
             <category term="#class"/>
 
-        <updated>2020-06-05T12:39:28-04:00</updated>
+        <updated>2020-06-05T13:02:16-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/13/Cover_ishrit.jpg" alt="&quot;Students walking to class&quot; by UGA CAES/Extension is licensed under CC BY-NC 2.0." />
