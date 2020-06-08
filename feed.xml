@@ -3,7 +3,7 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2020-06-07T19:28:53-04:00</updated>
+    <updated>2020-06-07T21:30:05-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
@@ -16,8 +16,11 @@
         </author>
         <link href="https://blog.thegenz.org/we-live-in-a-society-comedians-vs-cancel-culture-and-the-need-for-satire.html"/>
         <id>https://blog.thegenz.org/we-live-in-a-society-comedians-vs-cancel-culture-and-the-need-for-satire.html</id>
+            <category term="#society"/>
+            <category term="#culture"/>
+            <category term="#cancelculture"/>
 
-        <updated>2020-06-07T19:27:35-04:00</updated>
+        <updated>2020-06-07T21:30:00-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/14/Satire-and-Cancel-Culture-1-Sebastian-Sanchez-Gui.png" alt="Satire and Cancel Culture " />
