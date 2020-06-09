@@ -3,12 +3,32 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2020-06-09T19:46:35-04:00</updated>
+    <updated>2020-06-09T19:48:51-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
     <id>https://blog.thegenz.org</id>
 
+    <entry>
+        <title>adfs</title>
+        <author>
+            <name>Ishan Vepa</name>
+        </author>
+        <link href="https://blog.thegenz.org/adfs.html"/>
+        <id>https://blog.thegenz.org/adfs.html</id>
+
+        <updated>2020-06-09T19:48:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                    adfs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>adfs</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>We Live in a Society: Comedians Vs Cancel Culture and the Need for Satire</title>
         <author>
