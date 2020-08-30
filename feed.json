@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://blog.thegenz.org/inequality-is-not-a-political-debate.html",
+            "url": "https://blog.thegenz.org/inequality-is-not-a-political-debate.html",
+            "title": "Inequality is NOT a Political Debate",
+            "summary": "I Look To The Day When People Will Not Be Judged By The Color of Their Skin, But By The Content of Their Character\" - Martin Luther King Jr. Equality has always been an issue for the human race. People are judged for their skin&hellip;",
+            "content_html": "<blockquote>\n<p><i>I Look To The Day When People Will Not Be Judged By The Color of Their Skin, But By The Content of Their Character\"</i></p>\n<p><strong><i> - Martin Luther King Jr.</i></strong></p>\n</blockquote>\n<p><span style=\"font-weight: 400;\">Equality has always been an issue for the human race. People are judged for their skin color, gender, sexuality, social status, ethnicity, wealth, and much more. </span></p>\n<p><span style=\"font-weight: 400;\">The groups of people that fall on the “wrong side” of these topics, are considered a minority. Why, you ask? The answer is not simple. In fact, people have been asking this question for centuries. To be honest, there should not be an answer to this question. Actually, there should not even be a question at all. Everyone in the world should be treated equally. Wait…but then why is equality so controversial? </span></p>\n<p><span style=\"font-weight: 400;\">The issue of equality among different groups of people, especially over the last few months, has become a hot topic of debate among politicians. There are associations with different political parties on certain topics. For instance, in the recent Black Lives Matter protests it is believed that most of the people advocating for the cause are Democrats. Of course, this is just a stereotype. Why should it matter what political party you are when it comes to equal rights of African Americans? </span></p>\n<p><span style=\"font-weight: 400;\">The truth is…it shouldn’t. Some people are afraid to speak up about what they truly believe because they do not want to “get political.” However, the way I see it, the issue of Equality is not controversial. There should be no “Republicans vs. Democrats” when fighting for Equality. As a country, we need to unite together and combat these social issues together as one. With that being said, I decided to start this blog because I wanted to “break the barrier” about the controversial topics that I will be blogging about. In fact, nothing I will be posting is “controversial” or “political.” It is simply just the facts. On the other hand, I will be sharing my own personal beliefs on each of the topics. Although, my personal values will be reflected, none of my posts will highlight politics. As I previously stated, the issue of equality and the social injustices around the world do not exhibit a specific political party. So…how can you create social change without getting “political?” </span></p>\n<p><span style=\"font-weight: 400;\">For starters, do not make assumptions about different people’s political affiliation based on their stance in a social issue. By becoming more aware of your own personal views towards other people, you can become a better citizen and have your opinions be more respected by other people. Above all, demonstrate your beliefs clearly. State the problem that you want to be solved, and come up with a solution. I hope this helps to clear up some of the controversy that surrounds Equality!</span></p>",
+            "image": "https://blog.thegenz.org/media/posts/43/blm-wm2020-protesters-500x442-01-Tia-Guay.jpg",
+            "author": {
+                "name": "Ishan Vepa"
+            },
+            "tags": [
+                   "#society",
+                   "#rights",
+                   "#political",
+                   "#mlk",
+                   "#inequality",
+                   "#generations",
+                   "#community",
+                   "#blacklivesmatter",
+                   "#BLM"
+            ],
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
+        },
+        {
             "id": "https://blog.thegenz.org/is-voting-important.html",
             "url": "https://blog.thegenz.org/is-voting-important.html",
             "title": "Is Voting Important?",
@@ -25,8 +49,8 @@
                    "#society",
                    "#political"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/energy-vampires-and-their-impact-on-biodiversity.html",
@@ -42,8 +66,8 @@
                    "#tech",
                    "#energy"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/puppets-no-longer-the-hypocrisy-of-political-parties.html",
@@ -59,8 +83,8 @@
                    "#political",
                    "#oped"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/climate-change-is-affecting-our-health.html",
@@ -79,8 +103,8 @@
                    "#climatechange",
                    "#climate"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/the-cultural-appropriation-of-yoga.html",
@@ -97,8 +121,8 @@
                    "#infrastructure",
                    "#culture"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/shedding-racism-in-america-one-layer-at-a-time.html",
@@ -117,8 +141,8 @@
                    "#blacklivesmatter",
                    "#BLM"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/social-comparison-and-social-media-helpful-or-harmful.html",
@@ -137,8 +161,8 @@
                    "#mentalhealth",
                    "#global"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/americas-problem-with-race-an-in-depth-look-at-racism-and-the-civil-rights-movement-in-america.html",
@@ -159,8 +183,8 @@
                    "#advocacy",
                    "#BLM"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         },
         {
             "id": "https://blog.thegenz.org/the-importance-of-a-bubble.html",
@@ -179,28 +203,8 @@
                    "#covid19",
                    "#coronavirus"
             ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
-        },
-        {
-            "id": "https://blog.thegenz.org/one-way-to-protect-ourselves-from-covid-19.html",
-            "url": "https://blog.thegenz.org/one-way-to-protect-ourselves-from-covid-19.html",
-            "title": "One Way to Protect Ourselves from COVID-19",
-            "summary": "In this time where the number of COVID-19 cases are growing at an exponential rate we must find ways to protect ourselves so that we don’t get sick and in turn make everyone around us sick. One of the best ways to do that right&hellip;",
-            "content_html": "<p class=\"msg msg--highlight \"><em><strong>In this time where the number of COVID-19 cases are growing at an exponential rate we must find ways to protect ourselves so that we don’t get sick and in turn make everyone around us sick. One of the best ways to do that right now is using a mask or face shield. </strong></em></p>\n<p><span style=\"font-weight: 400;\">Face masks are essential as not only do they protect you from the virus, they also help protect others by reducing exposure to saliva and other respiratory secretions released by the mask wearer. Masks basically kill two birds with one stone as not only are you protected, but so are others around you. As the Mayo Clinic states, masks function by “protecting the wearer’s nose and mouth from contact with droplets, splashes and sprays that may contain germs.” Additionally they filter out large particles in the air further keeping the user protected from the virus. As outlined by the Mayo Clinic, a few pointers for putting on and taking of your maks are:</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Placing your mask around both your mouth and nose. If even one of them is exposed then you are at risk of contracting the virus.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Not touching your mask while you are wearing it.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">If you touch your mask, wash or sanitize your hands immediately.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Washing your hands immediately after taking off your mask.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">If one simply follows all of these guidelines then they can significantly reduce their chances of getting infected. </span></p>\n<p><span style=\"font-weight: 400;\">According to the Proceedings of the National Academy of Sciences of the United States of America (PNAS), masks significantly reduce the spread of the virus and that other countermeasures such as social distancing are not nearly as effective as masks are. A study by PNAS showed that simply wearing face masks prevented over 78,000 infections in Italy between April 6 and May 9 and over 66,000 infections in New York City between April 17 and May 9. As the statistics show, wearing a mask can drastically decrease the rising number of cases with little to no effort on our part. </span></p>\n<p><span style=\"font-weight: 400;\">While many states have taken the initiative and made masks mandatory, I believe that all states should implement this to make sure that the number of cases can finally start going back down again. No one is completely immune to the virus and to prevent any more casualties from occurring we must prevent the virus from spreading any further. Above all we must learn to have patience in these troubling times. If we had been a little more patient then the number of cases wouldn’t be rising at such a fast rate again. I get that it can be annoying to be stuck at home for so many months but it will ensure that we are not stuck at home longer than we need too. After all, the faster people start following all the precautions, the faster the number of cases will go down, and eventually leading the country to reopen faster.</span></p>\n<hr>\n<p class=\"align-center\"><em><span style=\"font-weight: 400;\">Citations</span></em></p>\n<p><span style=\"font-weight: 400;\">“Can Face Masks Protect against the Coronavirus?” </span><i><span style=\"font-weight: 400;\">Mayo Clinic</span></i><span style=\"font-weight: 400;\">, Mayo Foundation for Medical Education and Research, 17 July 2020, www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-mask/art-20485449.</span></p>\n<p><span style=\"font-weight: 400;\">Kim, Allen, et al. “These Are the States Requiring People to Wear Masks When out in Public.” </span><i><span style=\"font-weight: 400;\">CNN</span></i><span style=\"font-weight: 400;\">, Cable News Network, 17 July 2020, www.cnn.com/2020/06/19/us/states-face-mask-coronavirus-trnd/index.html.</span></p>\n<p><span style=\"font-weight: 400;\">Kim, Allen. “Best Way to Reduce Coronavirus Transmission Is by Wearing a Face Mask, Study Finds.” </span><i><span style=\"font-weight: 400;\">CNN</span></i><span style=\"font-weight: 400;\">, Cable News Network, 12 June 2020, www.cnn.com/2020/06/12/health/coronavirus-mask-wellness-trnd/index.html.</span></p>\n<p><span style=\"font-weight: 400;\">Zhang, Renyi, et al. “Identifying Airborne Transmission as the Dominant Route for the Spread of COVID-19.” </span><i><span style=\"font-weight: 400;\">PNAS</span></i><span style=\"font-weight: 400;\">, National Academy of Sciences, 30 June 2020, www.pnas.org/content/117/26/14857.</span></p>\n<p> </p>",
-            "image": "https://blog.thegenz.org/media/posts/33/mask_cover.jpg",
-            "author": {
-                "name": "Ishan Vepa"
-            },
-            "tags": [
-                   "#socialdistancing",
-                   "#healthcare",
-                   "#health",
-                   "#covid19",
-                   "#coronavirus"
-            ],
-            "date_published": "2020-08-28T17:42:42-04:00",
-            "date_modified": "2020-08-28T17:42:42-04:00"
+            "date_published": "2020-08-30T16:20:38-04:00",
+            "date_modified": "2020-08-30T16:20:38-04:00"
         }
     ]
 }
