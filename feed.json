@@ -11,26 +11,6 @@
     },
     "items": [
         {
-            "id": "https://blog.thegenz.org/climate-change-is-affecting-our-health-2.html",
-            "url": "https://blog.thegenz.org/climate-change-is-affecting-our-health-2.html",
-            "title": "Climate Change is Affecting Our Health",
-            "summary": "When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of&hellip;",
-            "content_html": "<p class=\"align-center msg msg--highlight \"><em><strong>When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. </strong></em></p>\n<p><span style=\"font-weight: 400;\">Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of society. </span></p>\n<p><span style=\"font-weight: 400;\">For example, extreme heat is a major problem in Florida, including Tallahassee. If you’ve gone outside at all this summer, you can understand what I’m talking about. Why is extreme heat a problem? Heat-related illnesses such as heat exhaustion and heat stroke are exacerbated because of global warming. These illnesses can be fatal, so it is best to avoid dangerously high temperatures. Unfortunately, Florida is expected to have many more “danger days”, where temperatures are above 103℉, in the coming years. Furthermore, there are people that cannot avoid the heat. Those who rely on public transportation, biking, or walking may not have access to cooler areas. Last summer, I had to take the bus pretty much everywhere: the gym, school, Publix. It was definitely hard to find shade, and I tried to avoid standing in the sun for too long.</span></p>\n<p><span style=\"font-weight: 400;\">Also, construction workers, farmers, and athletes face the same struggle, because their jobs are outdoors in the heat. I’m in my high school’s marching band, and the season usually starts in July. We have to be careful when we rehearse because of the risk of heat-related illness. </span></p>\n<p><span style=\"font-weight: 400;\">Another result of extreme heat is the increase in vectors. Vectors are organisms that commonly transmit diseases, such as malaria and ebola. Mosquitoes, ticks, and other vectors thrive in warmer, more humid weather. Seeing an increase in these vectors would cause an increase in vector-borne diseases. This directly impacts poor communities, because they are the most vulnerable to outbreaks and less access to good healthcare. I remember the Zika Virus arriving in Florida in 2016, and this is a vector-borne disease. While its impact then was minimal, the effects of global warming would change the outcome if Zika was to make a comeback. Seeing how the U.S. poorly handled this coronavirus pandemic, I worry about prevention and preparedness of future virus outbreaks.</span></p>\n<p><span style=\"font-weight: 400;\">Speaking of coronavirus, respiratory diseases are definitely made worse because of climate change. Poor air quality and air pollution makes breathing a lot harder than it should be, and so do respiratory illnesses. Myself, my family members, and many friends of mine have asthma, so it is pretty common. The combination of poor air quality and respiratory disease creates unfortunate living situations for many. Minority and low-income communities are especially vulnerable. Black and Hispanic children are much more likely to be affected by asthma, and also are more likely to be living near air pollution. Not to mention the lack of access to quality healthcare in these same communities. </span></p>\n<p><span style=\"font-weight: 400;\">There are solutions to the problems that I have mentioned. Tackling climate change head on requires commitment to decreasing fossil fuel emissions and transitioning to renewable energy sources, like solar and wind power. Florida has great potential for both of these. Also, increased tree canopy or shade coverings in biking areas, parks, and bus stops would be ideal for summertime. Tallahassee’s bus system is due for an update. Finally, making good healthcare more accessible for all people is absolutely necessary. All of these solutions are feasible, and we must let our elected officials know about the issues at hand.</span></p>",
-            "image": "https://blog.thegenz.org/media/posts/49/markus-spiske-5sh24a7m0BU-unsplash.jpg",
-            "author": {
-                "name": "Ishan Vepa"
-            },
-            "tags": [
-                   "#society",
-                   "#science",
-                   "#energy",
-                   "#climatechange",
-                   "#climate"
-            ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
-        },
-        {
             "id": "https://blog.thegenz.org/our-unconscious-biases-the-hidden-racial-prejudice-within-us-all.html",
             "url": "https://blog.thegenz.org/our-unconscious-biases-the-hidden-racial-prejudice-within-us-all.html",
             "title": "Our Unconscious Biases: The Hidden Racial Prejudice Within us All",
@@ -48,8 +28,8 @@
                    "#community",
                    "#blacklivesmatter"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/the-woman-behind-nasas-headquarters.html",
@@ -64,8 +44,8 @@
             "tags": [
                    "#science"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/cut-down-deforestation.html",
@@ -83,8 +63,8 @@
                    "#energy",
                    "#climate"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/why-schools-should-switch-times.html",
@@ -100,8 +80,8 @@
                    "#infrastructure",
                    "#education"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/a-social-study-of-racism-in-latin-america.html",
@@ -117,8 +97,8 @@
                    "#generations",
                    "#community"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/inequality-is-not-a-political-debate.html",
@@ -141,8 +121,8 @@
                    "#blacklivesmatter",
                    "#BLM"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/is-voting-important.html",
@@ -159,8 +139,8 @@
                    "#society",
                    "#political"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/energy-vampires-and-their-impact-on-biodiversity.html",
@@ -176,8 +156,8 @@
                    "#tech",
                    "#energy"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         },
         {
             "id": "https://blog.thegenz.org/puppets-no-longer-the-hypocrisy-of-political-parties.html",
@@ -193,8 +173,28 @@
                    "#political",
                    "#oped"
             ],
-            "date_published": "2020-09-16T16:25:32-04:00",
-            "date_modified": "2020-09-16T16:25:32-04:00"
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
+        },
+        {
+            "id": "https://blog.thegenz.org/climate-change-is-affecting-our-health.html",
+            "url": "https://blog.thegenz.org/climate-change-is-affecting-our-health.html",
+            "title": "Climate Change is Affecting Our Health",
+            "summary": "When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of society. </span></p>\n<p><span style=\"font-weight: 400;\">For example, extreme heat is a major problem in Florida, including Tallahassee. If you’ve gone outside at all this summer, you can understand what I’m talking about. Why is extreme heat a problem? Heat-related illnesses such as heat exhaustion and heat stroke are exacerbated because of global warming. These illnesses can be fatal, so it is best to avoid dangerously high temperatures. Unfortunately, Florida is expected to have many more “danger days”, where temperatures are above 103℉, in the coming years. Furthermore, there are people that cannot avoid the heat. Those who rely on public transportation, biking, or walking may not have access to cooler areas. Last summer, I had to take the bus pretty much everywhere: the gym, school, Publix. It was definitely hard to find shade, and I tried to avoid standing in the sun for too long.</span></p>\n<p><span style=\"font-weight: 400;\">Also, construction workers, farmers, and athletes face the same struggle, because their jobs are outdoors in the heat. I’m in my high school’s marching band, and the season usually starts in July. We have to be careful when we rehearse because of the risk of heat-related illness. </span></p>\n<p><span style=\"font-weight: 400;\">Another result of extreme heat is the increase in vectors. Vectors are organisms that commonly transmit diseases, such as malaria and Ebola. Mosquitoes, ticks, and other vectors thrive in warmer, more humid weather. Seeing an increase in these vectors would cause an increase in vector-borne diseases. This directly impacts poor communities, because they are the most vulnerable to outbreaks and less access to good healthcare. I remember the Zika Virus arriving in Florida in 2016, and this is a vector-borne disease. While its impact then was minimal, the effects of global warming would change the outcome if Zika was to make a comeback. Seeing how the U.S. poorly handled this coronavirus pandemic, I worry about prevention and preparedness of future virus outbreaks.</span></p>\n<p><span style=\"font-weight: 400;\">Speaking of coronavirus, respiratory diseases are definitely made worse because of climate change. Poor air quality and air pollution makes breathing a lot harder than it should be, and so do respiratory illnesses. Myself, my family members, and many friends of mine have asthma, so it is pretty common. The combination of poor air quality and respiratory disease creates unfortunate living situations for many. Minority and low-income communities are especially vulnerable. Black and Hispanic children are much more likely to be affected by asthma, and also are more likely to be living near air pollution. Not to mention the lack of access to quality healthcare in these same communities. </span></p>\n<p><span style=\"font-weight: 400;\">There are solutions to the problems that I have mentioned. Tackling climate change head on requires commitment to decreasing fossil fuel emissions and transitioning to renewable energy sources, like solar and wind power. Florida has great potential for both of these. Also, increased tree canopy or shade coverings in biking areas, parks, and bus stops would be ideal for summertime. Tallahassee’s bus system is due for an update. Finally, making good healthcare more accessible for all people is absolutely necessary. </span></p>\n<p class=\"align-center msg msg--highlight \"><em><strong>All of these solutions are feasible, and we must let our elected officials know about the issues at hand.</strong></em></p>",
+            "image": "https://blog.thegenz.org/media/posts/39/pexels-jeanchristophe-andre-2574983.jpg",
+            "author": {
+                "name": "Ishan Vepa"
+            },
+            "tags": [
+                   "#science",
+                   "#oped",
+                   "#environment",
+                   "#climatechange",
+                   "#climate"
+            ],
+            "date_published": "2020-09-18T11:30:02-04:00",
+            "date_modified": "2020-09-18T11:30:02-04:00"
         }
     ]
 }
