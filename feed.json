@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://blog.thegenz.org/should-schools-reopen.html",
+            "url": "https://blog.thegenz.org/should-schools-reopen.html",
+            "title": "Should Schools Reopen",
+            "summary": "With summer ending schools have started to re-open, but is that the right move many wonder. I strongly believe that reopening schools is the worst thing that could happen currently. Because there is still a raging pandemic which the world, let alone the U.S has&hellip;",
+            "content_html": "<p class=\"align-center msg msg--highlight \"><em><strong>With summer ending schools have started to re-open, but is that the right move many wonder. I strongly believe that reopening schools is the worst thing that could happen currently. Because there is still a raging pandemic which the world, let alone the U.S has an answer for. </strong></em></p>\n<p class=\"align-center\"><i><span style=\"font-weight: 400;\">What effect has schools reopening had on students</span></i></p>\n<p><span style=\"font-weight: 400;\"> </span><span style=\"font-weight: 400;\">Schools reopening have put many students at risk of catching the virus. In the last two weeks of July over 97,000 covid cases were students, schools were not even open. If the virus is spreading this fast for students when out of school, I don't want to imagine how bad it will be when all schools reopen. But many schools have set up an online option that will provide distance learning to students which will reduce a good chunk of those potential cases but not enough. Many of the schools in the Southern states are reopening and those states have seen a surge in cases. Georgia has had over 40,000 new cases ever since schools opened. Their cases per day went from 2,000 a day to 4,000 a day. If all states reopened schools, their cases would obviously rise and call for the entire state to be shut down again. That's why I believe that online school, until the amount of cases decreases massively, is how schools should be reopening. </span></p>\n<p class=\"align-center\"><i><span style=\"font-weight: 400;\">Why do students and parents not want online school?</span></i></p>\n<p><span style=\"font-weight: 400;\">Many students dislike online learning, because it is easier for many to learn in person. I can agree with this because when schools did close in the spring it was harder keeping a routine and learning new concepts from home. I feel like even though it is harder to learn from home it will be beneficial to the country as there the amount of cases that could happen would be prevented. Many believe that saving lives is worth doing online school, no matter how hard it may be for some students. A major flaw with online education is not everyone has access to it. Many organizations are trying like internet providers are trying to help students who don't have access by providing WiFi and other technology they need. Also it is a lot harder for younger students to learn from a at home setting as they have shorter attention spans and need more help learning topics. But teachers and parents are trying their best to help them. Schools have served as a daycare for many parents and with online school that would not be possible, not every parent can work from home and their child would have to be sent to a daycare which will cost them extra. The government is trying to provide financial support but I fear that it will not be enough to help these families who are struggling during these times. </span></p>\n<p><span style=\"font-weight: 400;\">Overall schools reopening wouldn’t help anybody as after a week or two they would have to close again because of the virus. If a state decides to let schools open for in person learning there should be some requirements, such as less students, masks, social distancing and daily cleaning of the school. Sadly that's not what we have seen in Georgia and many other states that have reopened schools, as many students aren't wearing masks or social distancing. CNN reported on this issue but schools in Georgia have not changed anything. One school even suspended the student who took the photo exposing the school. I don’t think any public place such as schools can open safely without there being an outbreak and for those reasons, I believe schools shouldn’t have in person learning until numbers are under control.</span></p>\n<hr>\n<p class=\"align-center\"><em>Citations</em></p>\n<p>Turner, Cory. “At Least 97,000 Children Tested Positive For Coronavirus In Last 2 Weeks Of July.” <i>NPR</i>, NPR, 11 Aug. 2020, <a href=\"http://www.npr.org/sections/coronavirus-live-updates/2020/08/11/900861372/at-least-97-000-children-tested-positive-for-coronavirus-in-last-2-weeks-of-july\">www.npr.org/sections/coronavirus-live-updates/2020/08/11/900861372/at-least-97-000-children-tested-positive-for-coronavirus-in-last-2-weeks-of-july</a>.</p>\n<p>Peiser, Jaclyn. “A Georgia District Returned to School Last Week. More than 900 Students and Staff Are Now Quarantined.” <i>The Washington Post</i>, WP Company, 12 Aug. 2020, <a href=\"http://www.washingtonpost.com/nation/2020/08/12/school-coronavirus-outbreak-georgia-quarantine/\">www.washingtonpost.com/nation/2020/08/12/school-coronavirus-outbreak-georgia-quarantine/</a>.</p>\n<p>Andone, Dakin. “Georgia School Seen in Photo of a Crowded Hallway Will Briefly Move to Online Learning after Reporting 9 Cases of Covid-19.” <i>CNN</i>, Cable News Network, 10 Aug. 2020, <a href=\"http://www.cnn.com/2020/08/09/us/north-paulding-high-school-covid-19-cases/index.html\">www.cnn.com/2020/08/09/us/north-paulding-high-school-covid-19-cases/index.html</a>.</p>\n<p><span style=\"font-weight: 400;\">Google’s COVID-19 Alert</span></p>\n<p> </p>",
+            "image": "https://blog.thegenz.org/media/posts/50/24F482A3-B132-49A9-87F2-B516DFFC1C78-Ryan-Shankar.jpeg",
+            "author": {
+                "name": "Ishan Vepa"
+            },
+            "tags": [
+                   "#education",
+                   "#covid19",
+                   "#coronavirus"
+            ],
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
+        },
+        {
             "id": "https://blog.thegenz.org/our-unconscious-biases-the-hidden-racial-prejudice-within-us-all.html",
             "url": "https://blog.thegenz.org/our-unconscious-biases-the-hidden-racial-prejudice-within-us-all.html",
             "title": "Our Unconscious Biases: The Hidden Racial Prejudice Within us All",
@@ -28,8 +46,8 @@
                    "#community",
                    "#blacklivesmatter"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/the-woman-behind-nasas-headquarters.html",
@@ -44,8 +62,8 @@
             "tags": [
                    "#science"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/cut-down-deforestation.html",
@@ -63,8 +81,8 @@
                    "#energy",
                    "#climate"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/why-schools-should-switch-times.html",
@@ -80,8 +98,8 @@
                    "#infrastructure",
                    "#education"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/a-social-study-of-racism-in-latin-america.html",
@@ -97,8 +115,8 @@
                    "#generations",
                    "#community"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/inequality-is-not-a-political-debate.html",
@@ -121,8 +139,8 @@
                    "#blacklivesmatter",
                    "#BLM"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/is-voting-important.html",
@@ -139,8 +157,8 @@
                    "#society",
                    "#political"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/energy-vampires-and-their-impact-on-biodiversity.html",
@@ -156,8 +174,8 @@
                    "#tech",
                    "#energy"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         },
         {
             "id": "https://blog.thegenz.org/puppets-no-longer-the-hypocrisy-of-political-parties.html",
@@ -173,28 +191,8 @@
                    "#political",
                    "#oped"
             ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
-        },
-        {
-            "id": "https://blog.thegenz.org/climate-change-is-affecting-our-health.html",
-            "url": "https://blog.thegenz.org/climate-change-is-affecting-our-health.html",
-            "title": "Climate Change is Affecting Our Health",
-            "summary": "When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">When you hear “climate change”, you might think about polar bears and melting icebergs. And you’re right. Climate change is occurring because of the effects of global warming. We see changes in ecosystems and sea levels. But climate change affects so many more aspects of society. </span></p>\n<p><span style=\"font-weight: 400;\">For example, extreme heat is a major problem in Florida, including Tallahassee. If you’ve gone outside at all this summer, you can understand what I’m talking about. Why is extreme heat a problem? Heat-related illnesses such as heat exhaustion and heat stroke are exacerbated because of global warming. These illnesses can be fatal, so it is best to avoid dangerously high temperatures. Unfortunately, Florida is expected to have many more “danger days”, where temperatures are above 103℉, in the coming years. Furthermore, there are people that cannot avoid the heat. Those who rely on public transportation, biking, or walking may not have access to cooler areas. Last summer, I had to take the bus pretty much everywhere: the gym, school, Publix. It was definitely hard to find shade, and I tried to avoid standing in the sun for too long.</span></p>\n<p><span style=\"font-weight: 400;\">Also, construction workers, farmers, and athletes face the same struggle, because their jobs are outdoors in the heat. I’m in my high school’s marching band, and the season usually starts in July. We have to be careful when we rehearse because of the risk of heat-related illness. </span></p>\n<p><span style=\"font-weight: 400;\">Another result of extreme heat is the increase in vectors. Vectors are organisms that commonly transmit diseases, such as malaria and Ebola. Mosquitoes, ticks, and other vectors thrive in warmer, more humid weather. Seeing an increase in these vectors would cause an increase in vector-borne diseases. This directly impacts poor communities, because they are the most vulnerable to outbreaks and less access to good healthcare. I remember the Zika Virus arriving in Florida in 2016, and this is a vector-borne disease. While its impact then was minimal, the effects of global warming would change the outcome if Zika was to make a comeback. Seeing how the U.S. poorly handled this coronavirus pandemic, I worry about prevention and preparedness of future virus outbreaks.</span></p>\n<p><span style=\"font-weight: 400;\">Speaking of coronavirus, respiratory diseases are definitely made worse because of climate change. Poor air quality and air pollution makes breathing a lot harder than it should be, and so do respiratory illnesses. Myself, my family members, and many friends of mine have asthma, so it is pretty common. The combination of poor air quality and respiratory disease creates unfortunate living situations for many. Minority and low-income communities are especially vulnerable. Black and Hispanic children are much more likely to be affected by asthma, and also are more likely to be living near air pollution. Not to mention the lack of access to quality healthcare in these same communities. </span></p>\n<p><span style=\"font-weight: 400;\">There are solutions to the problems that I have mentioned. Tackling climate change head on requires commitment to decreasing fossil fuel emissions and transitioning to renewable energy sources, like solar and wind power. Florida has great potential for both of these. Also, increased tree canopy or shade coverings in biking areas, parks, and bus stops would be ideal for summertime. Tallahassee’s bus system is due for an update. Finally, making good healthcare more accessible for all people is absolutely necessary. </span></p>\n<p class=\"align-center msg msg--highlight \"><em><strong>All of these solutions are feasible, and we must let our elected officials know about the issues at hand.</strong></em></p>",
-            "image": "https://blog.thegenz.org/media/posts/39/pexels-jeanchristophe-andre-2574983.jpg",
-            "author": {
-                "name": "Ishan Vepa"
-            },
-            "tags": [
-                   "#science",
-                   "#oped",
-                   "#environment",
-                   "#climatechange",
-                   "#climate"
-            ],
-            "date_published": "2020-09-18T11:30:02-04:00",
-            "date_modified": "2020-09-18T11:30:02-04:00"
+            "date_published": "2020-09-25T17:33:40-04:00",
+            "date_modified": "2020-09-25T17:33:40-04:00"
         }
     ]
 }
