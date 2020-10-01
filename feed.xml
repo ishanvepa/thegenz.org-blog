@@ -3,12 +3,48 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2020-10-01T17:44:12-04:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
     <id>https://blog.thegenz.org</id>
 
+    <entry>
+        <title>E-Waste: The Consequences of Material Extraction</title>
+        <author>
+            <name>Ishan Vepa</name>
+        </author>
+        <link href="https://blog.thegenz.org/e-waste-the-consequences-of-material-extraction.html"/>
+        <id>https://blog.thegenz.org/e-waste-the-consequences-of-material-extraction.html</id>
+            <category term="#tech"/>
+            <category term="#environment"/>
+
+        <updated>2020-10-01T17:44:12-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.thegenz.org/media/posts/51/e_waste.jpg" alt="E-waste consolidation." />
+                    The United States produces 6.9 million tons of electronic waste each year and only 12% of it gets recycled according to the EPA. The rate of electronics being produced is five times faster than the growth of the human population itself. All of this electronic&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.thegenz.org/media/posts/51/e_waste.jpg" alt="E-waste consolidation." />
+                <p><span style="font-weight: 400;">The United States produces 6.9 million tons of electronic waste each year and only 12% of it gets recycled according to the EPA. The rate of electronics being produced is five times faster than the growth of the human population itself. All of this electronic waste or e-waste, is made of valuable metals and toxic substances, 50 - 70 % of which is transported to foreign countries, where it accumulates developing into a hazard for the surrounding environment. </span></p>
+<p class="align-center msg msg--highlight "><em><strong>But creating massive amounts of electronics requires large amounts of materials that are causing problems in many third-world countries.</strong></em></p>
+<p><strong><i>The conflict in DRC:</i></strong></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">The Democratic Republic has been a hotspot of conflict for many years and is currently going through a civil war fueled by the mining of metals. Both sides depend on the metals to finance operations causing a conflict which has taken the lives of 5.4 million people since 1998. These metals are then bought by foreign countries to produce electronics. Robert Hormats, who served as the Under Secretary of State for Economic Growth, Energy, and the Environment said that the consequences of mineral mining are “one of the most significant moral issues of our time”. </span></p>
+<p><strong><i>Environmental impact: </i></strong></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Mining for metals is extremely detrimental to the surrounding environment. It contaminates nearby water sources with different types of toxic metals and acids which kills wildlife. A large amount of waste is also produced through the mining process which ends up in the ground or at waste sites. Approximately 80 tons of waste is produced from mining one ounce of gold. The mining of rare Earth elements also requires miners to separate it from radioactive elements. Managing the radioactive waste is also a problem and many are exposed to radiation in the process. One of the largest e-waste dumps in the world is the city of Guiyu in China, where e-waste from all over the world is transported for burning or recycling. The burning of plastics has resulted in 80 % of Guiyu’s children to have high amounts of lead in their blood. Nearby water sources also test high for industrial solvents and metals.</span></p>
+<p><strong><i>What you can do to help: </i></strong></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">One of the best ways that you can help slow down the amount of e-waste produced is by lengthening the time you buy devices. Instead of buying the newest phone and chucking the old one every time your brand comes out with a new version, buy a new phone every two or three versions as most phones work fine for more than 3 or 4 years. This is the same with laptops and TVs which can also last very long before needing a replacement. Most cell carriers have deals where you can trade in a phone and it counts towards your purchase of a newer version which is also a great way to reduce the amount of e-waste you produce. The safest way to dispose of electronics is to check for nearby recycling centers for electronics. They can manage the waste and recover metals and parts that can be recycled before getting rid of the waste.</span></p>
+<hr>
+<p class="align-center"><em><span style="font-weight: 400;">Citations</span></em></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">“Where’s The Harm – From Materials Extraction?” </span><i><span style="font-weight: 400;">Electronics Take Back Coalition</span></i><span style="font-weight: 400;">, </span><a href="http://www.electronicstakeback.com/toxics-in-electronics/wheres-the-harm-extraction/"><span style="font-weight: 400;">www.electronicstakeback.com/toxics-in-electronics/wheres-the-harm-extraction/</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Banco, Erin. “Is Your Cell Phone Fueling Civil War in Congo?” </span><i><span style="font-weight: 400;">The Atlantic</span></i><span style="font-weight: 400;">, Atlantic Media Company, 10 July 2011, </span><a href="http://www.theatlantic.com/international/archive/2011/07/is-your-cell-phone-fueling-civil-war-in-congo/241663/"><span style="font-weight: 400;">www.theatlantic.com/international/archive/2011/07/is-your-cell-phone-fueling-civil-war-in-congo/241663/</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Pinghui, Zhuang. “China's Notorious e-Waste Dumping Ground Cleaner but Poorer.” </span><i><span style="font-weight: 400;">South China Morning Post</span></i><span style="font-weight: 400;">, 22 Sept. 2017, </span><a href="http://www.scmp.com/news/china/society/article/2112226/chinas-most-notorious-e-waste-dumping-ground-now-cleaner-poorer"><span style="font-weight: 400;">www.scmp.com/news/china/society/article/2112226/chinas-most-notorious-e-waste-dumping-ground-now-cleaner-poorer</span></a><span style="font-weight: 400;">.</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Should Schools Reopen</title>
         <author>
@@ -20,7 +56,7 @@
             <category term="#covid19"/>
             <category term="#coronavirus"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-25T17:33:29-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/50/24F482A3-B132-49A9-87F2-B516DFFC1C78-Ryan-Shankar.jpeg" alt="Covid-19 classroom integration." />
@@ -60,7 +96,7 @@
             <category term="#community"/>
             <category term="#blacklivesmatter"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-16T16:25:18-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/48/unconscious-bias-pic-Generation-Z-Media.png" alt="Unconscious Biases in the Workplace graphic." />
@@ -113,7 +149,7 @@
         <id>https://blog.thegenz.org/the-woman-behind-nasas-headquarters.html</id>
             <category term="#science"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-15T15:52:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/47/Mary-Jackson-Abigail-Mullins.jpg" alt="Depiction of Mary Jackson, Aeronautical Engineer" />
@@ -154,7 +190,7 @@
             <category term="#energy"/>
             <category term="#climate"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-15T17:41:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/46/Deforestation-Article-Photo-Alyson-Torino.jpg" alt="Deforestation present in a woodland." />
@@ -183,7 +219,7 @@
             <category term="#infrastructure"/>
             <category term="#education"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-14T18:27:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/45/pexels-dids-2675050.jpg" alt="Photo of Empty Class Room" />
@@ -220,7 +256,7 @@
             <category term="#generations"/>
             <category term="#community"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-09-04T09:09:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/44/Latin_America_Flag_Proposal-800x445.png" alt="The Persisting Impact of Racial Construction in Latin America" />
@@ -267,7 +303,7 @@
             <category term="#blacklivesmatter"/>
             <category term="#BLM"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-08-30T16:20:28-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/43/blm-wm2020-protesters-500x442-01-Tia-Guay.jpg" alt="Black Lives Matter Protest." />
@@ -300,7 +336,7 @@
             <category term="#society"/>
             <category term="#political"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-08-28T17:42:32-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/42/element5-digital-ls8Kc0P9hAA-unsplash.jpg" alt="&quot;I Voted&quot; emblems." />
@@ -336,7 +372,7 @@
             <category term="#tech"/>
             <category term="#energy"/>
 
-        <updated>2020-09-25T17:33:40-04:00</updated>
+        <updated>2020-08-25T16:12:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/41/plug-socket-electric-electricity-energy-power-cord-outlet-hand.jpg" alt="Lightning Cable, Battery Charger, Cable, Iphone, Load, Socket" />
@@ -361,48 +397,6 @@
 <p><a href="https://www.khanacademy.org/computer-programming/link_redirector?url=https%3A%2F%2Felectronics.howstuffworks.com%2Feveryday-tech%2Fvampire-power.htm"><span style="font-weight: 400;">Lamb, Robert. “How Vampire Power Works.” HowStuffWorks, HowStuffWorks, 4 June 2008, electronics.howstuffworks.com/everyday-tech/vampire-power1.htm.</span></a></p>
 <p><a href="https://www.khanacademy.org/computer-programming/link_redirector?url=https%3A%2F%2Fmedium.com%2F%40heoegema%2Fcoding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097"><span style="font-weight: 400;">Oegema, Holly. “Coding For Absolute Beginners: Choose Your Own Adventure Tutorial.” Medium, Medium, 2 Dec. 2017, medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097.</span></a></p>
 <p><a href="https://www.khanacademy.org/computer-programming/link_redirector?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgjQJdsySrM"><span style="font-weight: 400;">sfdungeon. “RACING EXTINCTION.” YouTube, YouTube, 30 June 2017, www.youtube.com/watch?v=jgjQJdsySrM.</span></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Puppets No Longer: The Hypocrisy of Political Parties</title>
-        <author>
-            <name>Ishan Vepa</name>
-        </author>
-        <link href="https://blog.thegenz.org/puppets-no-longer-the-hypocrisy-of-political-parties.html"/>
-        <id>https://blog.thegenz.org/puppets-no-longer-the-hypocrisy-of-political-parties.html</id>
-            <category term="#political"/>
-            <category term="#oped"/>
-
-        <updated>2020-09-25T17:33:40-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.thegenz.org/media/posts/40/partisan_voters-2e3fb6e73c661b938f4003c9fc8669e7be01010e-s800-c85.jpg" alt="Rivaling political parties." />
-                    Hypocrisy: a feigning to be what one is not or to believe what one does not: behavior that contradicts what one claims to believe or feel (Merriam Webster) In the political climate that is the United States of America, we are no strangers to political&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.thegenz.org/media/posts/40/partisan_voters-2e3fb6e73c661b938f4003c9fc8669e7be01010e-s800-c85.jpg" alt="Rivaling political parties." />
-                <p class="post__lead dropcap"><span style="font-weight: 400;">Hypocrisy: </span><span style="font-weight: 400;">a feigning to be what one is not or to believe what one does not: behavior that contradicts what one claims to believe or feel (Merriam Webster)</span></p>
-<p><span style="font-weight: 400;">In the political climate that is the United States of America, we are no strangers to political parties (nominally the two major ones; Republicans and Democrats) being quite divisive on an array of issues. Ranging from gun control to welfare to immigration to mask-wearing to you name it. Often we find if Republicans believe one thing, Democrats are inclined to believe the opposite, and vice versa. While most can not see it at face value, this is very much a dangerous thing as this can cause political parties to contradict themselves in what they say and do and be hypocritical in what they believe in order to be divisive, because divisiveness is what keeps party loyalty and gets the votes. </span></p>
-<p><span style="font-weight: 400;">It is important to note that it is quite easy for these divisive political ideologies to infect the minds of the people. We live in a world where it seems you have to choose a side because Republicans and Democrats are “sworn enemies” on every issue. We are told to pick a side and if we do not pick a side and believe in everything that side believes in, we are automatically traitors to the political party we align ourselves with and to America as a whole. </span></p>
-<p><span style="font-weight: 400;">Generalizations can help and can hurt. We should never generalize a person or a group of people based on any factor, we should always hear out. For example, just because someone is a registered Republican that does not mean they are not for more gun control or a Democrat could be pro-life. However, certain generalizations must be concluded about these political parties and their ideologies as it points out their hypocritical nature. It is this hypocritical nature that is derived from the fact that these political parties must be “sworn enemies” and divisive on every issue, even at the expense of compromising and contradicting themselves and being hypocritical. This is all done in order to get the vote, to make Americans choose a side lest they be traitors to party and to America itself. It is this hypocritical, divisive mindset that is tearing America apart and harming more than helping. </span></p>
-<p><span style="font-weight: 400;">And no better an example to discuss this is the abortion debate.</span></p>
-<p><span style="font-weight: 400;">As a pro-life American whose pro-lifeness is hinged on my relationship with Christ (I am a Christian), I will point out the hypocrisy of the Republican party first when it comes to this debate. </span></p>
-<p><span style="font-weight: 400;">Typically, Republican ideology tilts towards the pro-life side of this debate. They argue for the sanctity of life and how life in the womb matters and must be preserved. They argue it is murderous and vile. Yet, the same party that argues for the sanctity of life has a leader that wants to build a wall to keep life out. They argue for the sanctity of life in the womb, only as long as that womb or person is a U.S. citizen. Who cares about the people trying to find safety and life from drug cartels or violence or to just have a better life than the one they came from? The only precious life is the one within the borders of the U.S. </span></p>
-<p><span style="font-weight: 400;">Being pro-life means being pro-immigrant lives, pro-black lives, pro-”anything that is a human life”. Anyways, let us move on…. </span></p>
-<p><span style="font-weight: 400;">Before I discuss the Democratic view, I would like to point out a stat I read from a New York Times article where it was found that “</span><span style="font-weight: 400;"> black women continue to have the highest abortion rate at 27.1 per 1,000 women compared with 10 per 1,000 for white women, </span><a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2017.304042"><span style="font-weight: 400;">according to a study</span></a><span style="font-weight: 400;"> published in the American Journal of Public Health.” (Eligon) As to why this is? Another quote from the same article gives some insight, “</span><span style="font-weight: 400;">In many black communities, the abortion debate is inextricably tied to race in ways that white communities seldom confront. Social and economic disparities that are particularly challenging to African-Americans, from mass incarceration to maternal and infant mortality, are crucial parts of that discussion,” (Eligon). </span></p>
-<p><span style="font-weight: 400;">Democrats tend to be pro-choice in the abortion debate, meaning they tend to advocate for abortion and the right to have one. As well, it is typically Democrats who are more progressive in their thinking and they spearhead social justice movements in our democracy, especially when it comes to race. However, there is an issue. The same party that spearheads social justice for black Americans also advocates for a practice that affects black women at a rate of almost 3 to 1. In the same breath, they advocate for ways to end systemic racism but also advocate for a practice that feeds off of systemic racism and is killing the future black leaders of American more than the white ones. </span></p>
-<p><span style="font-weight: 400;">These political parties are willing to contradict themselves in what they say and believe and be hypocritical in order to appear divisive. They claim and appear to be the protectors of “life and justice”, but contradict themselves and are another thing entirely. This is all done to be divisive, to get the vote, and make Americans pick a side and believe everything that side believes, lest they be traitors to party and to country.</span></p>
-<p><span style="font-weight: 400;">I say these things not out of hate nor anger, but out of love for country and love for every human in and outside this country. As a Christ-follower, it is my humble belief that I put Christ first in my life and in doing so I show love to as many people as possible. </span></p>
-<p><span style="font-weight: 400;">We as Americans are being politically divided, and it is doing a lot more harm than good. </span></p>
-<p><span style="font-weight: 400;">We as American people must be able to think as individuals and come up with opinions that are based on facts and our love and care for other humans, not based on political allegiance. And in doing so we must reach a place where we do not hate each other for our opinions. A Republican should be able to believe in gun control, a Democrat should be able to be pro-life, and both not be hated for it. People should be able to make opinions on issues based on facts and love for one another and not based on whether they say Biden or Trump 2020 and not have to be hated for it.  And in making these opinions, we must reach a place where we can discuss such opinions in a loving, caring, gentle, respectful manner in where we can make compromises that help as many people as possible. Where we can disagree with one another, but still have a respectful conversation about our disagreement. </span></p>
-<p><span style="font-weight: 400;">Our goal should be able to come up with opinions on issues as individuals who care for and love their country and care for and love people as a whole, to make opinions while considering the facts and how this may positively or negatively affect people in real life, to respectfully and gently discuss our opinions and try to come up with solutions and compromises that help as many people as possible, and to not be puppets for these political machines any longer.</span></p>
-<hr>
-<p class="align-center"><em>Citations</em></p>
-<p><span style="font-weight: 400;">Eligon, John. “When ‘Black Lives Matter’ Is Invoked in the Abortion Debate.” The New York Times, 6 July. 2019, </span><a href="https://www.nytimes.com/2019/07/06/us/black-abortion-missouri.html"><span style="font-weight: 400;">https://www.nytimes.com/2019/07/06/us/black-abortion-missouri.html</span></a></p>
-<p><span style="font-weight: 400;">Merriam Webster. “Definition of Hypocrisy.” </span><a href="https://www.merriam-webster.com/dictionary/hypocrisy"><span style="font-weight: 400;">https://www.merriam-webster.com/dictionary/hypocrisy</span></a><span style="font-weight: 400;">. Accessed August 15, 2020</span></p>
             ]]>
         </content>
     </entry>
