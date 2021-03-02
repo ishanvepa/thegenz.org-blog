@@ -3,7 +3,7 @@
     <title>The Generation Z Blog</title>
     <link href="https://blog.thegenz.org/feed.xml" rel="self" />
     <link href="https://blog.thegenz.org" />
-    <updated>2021-03-02T08:57:41-05:00</updated>
+    <updated>2021-03-02T09:00:25-05:00</updated>
     <author>
         <name>Ishan Vepa</name>
     </author>
@@ -16,8 +16,16 @@
         </author>
         <link href="https://blog.thegenz.org/the-aave-dialect-its-not-broken-english.html"/>
         <id>https://blog.thegenz.org/the-aave-dialect-its-not-broken-english.html</id>
+            <category term="#society"/>
+            <category term="#oped"/>
+            <category term="#inequality"/>
+            <category term="#generations"/>
+            <category term="#education"/>
+            <category term="#community"/>
+            <category term="#class"/>
+            <category term="#BLM"/>
 
-        <updated>2021-03-02T08:57:41-05:00</updated>
+        <updated>2021-03-02T09:00:25-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.thegenz.org/media/posts/63/AAVE-Awol9.jpg" alt="Using Black Vernacular English (BVE) as a Non-Black Person Isn&#x27;t ‘Woke’ If You Don&#x27;t Understand the History." />
